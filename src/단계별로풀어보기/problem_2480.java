@@ -12,7 +12,6 @@ public class problem_2480 {
 		 * 3. 모두 다른 눈이 나오는 경우에는 (그 중 가장 큰 눈)×100원의 상금
 		 * 
 		 **/
-		
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();
