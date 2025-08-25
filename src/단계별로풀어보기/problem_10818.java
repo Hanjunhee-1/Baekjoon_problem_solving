@@ -57,6 +57,9 @@ class MyArray {
 				end--;
 			}	
 		}
+		System.out.print("현재 진행상황: ");
+		this.printMyArray();
+		System.out.println();
 		return start;
 	}
 	
