@@ -40,8 +40,6 @@ public class problem_3009 {
 		for (int i=0; i<=max; i++) {
 			if (Xarr[i] == 1) x = i;
 			if (Yarr[i] == 1) y = i;
-//			if (arr[i][0] == 1) x = i;
-//			if (arr[0][i] == 1) y = i;
 		}
 
 		System.out.println(x + " " + y);
