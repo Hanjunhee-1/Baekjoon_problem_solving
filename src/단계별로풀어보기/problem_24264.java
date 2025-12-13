@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class problem_24264 {
 
 	public static void main(String[] args) {
-		// 알고리즘 수업 - 알고리즘의 수행 시간 2
+		// 알고리즘 수업 - 알고리즘의 수행 시간 3
 		
 		/**
 		 * MenOfPassion(A[], n) {
